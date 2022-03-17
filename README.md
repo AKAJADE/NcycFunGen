@@ -1,2 +1,2 @@
 # NcycFunGen
-Perl script for construct NcycFenGen database.
+Perl script for construction of NcycFenGen database.
